@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cripto-presentacion/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/cripto-presentacion/static/js/main.10b5b5a2.chunk.js",
-    "main.js.map": "/cripto-presentacion/static/js/main.10b5b5a2.chunk.js.map",
+    "main.js": "/cripto-presentacion/static/js/main.e3f2dee7.chunk.js",
+    "main.js.map": "/cripto-presentacion/static/js/main.e3f2dee7.chunk.js.map",
     "runtime-main.js": "/cripto-presentacion/static/js/runtime-main.584e57fd.js",
     "runtime-main.js.map": "/cripto-presentacion/static/js/runtime-main.584e57fd.js.map",
     "static/js/2.d5f5e00c.chunk.js": "/cripto-presentacion/static/js/2.d5f5e00c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.584e57fd.js",
     "static/js/2.d5f5e00c.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.10b5b5a2.chunk.js"
+    "static/js/main.e3f2dee7.chunk.js"
   ]
 }
