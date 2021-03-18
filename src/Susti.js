@@ -1,8 +1,8 @@
 export default class SustitutionCipher {
 
     constructor() {
-        this.abc = "abcdefghijklmnñopqrstuvwxyz";
-        this.abc_up = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
+        this.abc = "abcdefghijklmnopqrstuvwxyz";
+        this.abc_up = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     }
 
 
